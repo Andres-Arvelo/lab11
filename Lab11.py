@@ -103,7 +103,7 @@ class App:
         print("2. Assignment statistics")
         print("3. Assignment graph")
 
-        selection = input("Enter your choice: ")
+        selection = input("Enter your selection: ")
 
         if selection == "1":
             name = input("What is the student's name: ")
